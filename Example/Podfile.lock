@@ -1,0 +1,16 @@
+PODS:
+  - blampaymentswift (0.1.0)
+
+DEPENDENCIES:
+  - blampaymentswift (from `../`)
+
+EXTERNAL SOURCES:
+  blampaymentswift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  blampaymentswift: e0f94b1bc3b1058699d782d11436dd65e67673a4
+
+PODFILE CHECKSUM: b9f5d325863b77ff0bfb5f1c0b650fdeb26259c6
+
+COCOAPODS: 1.0.1
