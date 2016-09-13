@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'blampaymentswift_Example' do
+  pod 'blampaymentswift', :path => '../'
+
+  target 'blampaymentswift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
